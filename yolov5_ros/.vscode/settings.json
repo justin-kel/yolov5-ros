@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/justin/ws_video_compression/build/yolov5_ros",
+        "/home/justin/ws_video_compression/install/yolov5_ros/lib/python3.10/site-packages",
+        "/home/justin/ws_video_compression/install/theora_image_transport/local/lib/python3.10/dist-packages",
+        "/home/justin/ws_video_compression/build/cv_basics",
+        "/home/justin/ws_video_compression/install/cv_basics/lib/python3.10/site-packages",
+        "/home/justin/ws_video_compression/install/h264_msgs/local/lib/python3.10/dist-packages",
+        "/home/justin/ws_video_compression/build/compressed_image_tools",
+        "/home/justin/ws_video_compression/install/compressed_image_tools/lib/python3.10/site-packages",
+        "/home/justin/ws_video_compression/build/camera_calibration/src",
+        "/home/justin/ws_video_compression/install/camera_calibration/lib/python3.10/site-packages",
+        "/home/justin/ws_video_compression/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/justin/ws_video_compression/build/yolov5_ros",
+        "/home/justin/ws_video_compression/install/yolov5_ros/lib/python3.10/site-packages",
+        "/home/justin/ws_video_compression/install/theora_image_transport/local/lib/python3.10/dist-packages",
+        "/home/justin/ws_video_compression/build/cv_basics",
+        "/home/justin/ws_video_compression/install/cv_basics/lib/python3.10/site-packages",
+        "/home/justin/ws_video_compression/install/h264_msgs/local/lib/python3.10/dist-packages",
+        "/home/justin/ws_video_compression/build/compressed_image_tools",
+        "/home/justin/ws_video_compression/install/compressed_image_tools/lib/python3.10/site-packages",
+        "/home/justin/ws_video_compression/build/camera_calibration/src",
+        "/home/justin/ws_video_compression/install/camera_calibration/lib/python3.10/site-packages",
+        "/home/justin/ws_video_compression/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

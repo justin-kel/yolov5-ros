@@ -30,6 +30,7 @@ setup(
     entry_points={
         'console_scripts': [
             'yolov5_ros = '+package_name+'.main:ros_main',
+            'yolov5_ros_compressed = '+package_name+'.yolo_v5_compressed:ros_main',
         ],
     },
 )

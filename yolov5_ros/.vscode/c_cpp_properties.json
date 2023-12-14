@@ -1,0 +1,51 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/justin/ws_video_compression/install/stereo_image_proc/include/**",
+        "/home/justin/ws_video_compression/install/image_proc/include/**",
+        "/home/justin/ws_video_compression/install/tracetools_image_pipeline/include/**",
+        "/home/justin/ws_video_compression/install/theora_image_transport/include/**",
+        "/home/justin/ws_video_compression/install/image_view/include/**",
+        "/home/justin/ws_video_compression/install/image_rotate/include/**",
+        "/home/justin/ws_video_compression/install/image_publisher/include/**",
+        "/home/justin/ws_video_compression/install/h264_image_transport/include/**",
+        "/home/justin/ws_video_compression/install/depth_image_proc/include/**",
+        "/home/justin/ws_video_compression/install/compressed_image_transport/include/**",
+        "/home/justin/ws_video_compression/install/compressed_depth_image_transport/include/**",
+        "/home/justin/ws_video_compression/install/image_transport/include/**",
+        "/home/justin/ws_video_compression/install/h264_msgs/include/**",
+        "/home/justin/ws_video_compression/install/camera_info_manager/include/**",
+        "/home/justin/ws_video_compression/install/camera_calibration_parsers/include/**",
+        "/home/justin/ws_video_compression/install/bboxes_ex_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/justin/ws_video_compression/src/h264_image_transport/h264_image_transport/include/**",
+        "/home/justin/ws_video_compression/src/image_common/camera_calibration_parsers/include/**",
+        "/home/justin/ws_video_compression/src/image_common/camera_info_manager/include/**",
+        "/home/justin/ws_video_compression/src/image_common/image_transport/include/**",
+        "/home/justin/ws_video_compression/src/image_pipeline/depth_image_proc/include/**",
+        "/home/justin/ws_video_compression/src/image_pipeline/image_proc/include/**",
+        "/home/justin/ws_video_compression/src/image_pipeline/image_publisher/include/**",
+        "/home/justin/ws_video_compression/src/image_pipeline/image_rotate/include/**",
+        "/home/justin/ws_video_compression/src/image_pipeline/image_view/include/**",
+        "/home/justin/ws_video_compression/src/image_pipeline/stereo_image_proc/include/**",
+        "/home/justin/ws_video_compression/src/image_pipeline/tracetools_image_pipeline/include/**",
+        "/home/justin/ws_video_compression/src/image_transport_plugins/compressed_depth_image_transport/include/**",
+        "/home/justin/ws_video_compression/src/image_transport_plugins/compressed_image_transport/include/**",
+        "/home/justin/ws_video_compression/src/image_transport_plugins/theora_image_transport/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
